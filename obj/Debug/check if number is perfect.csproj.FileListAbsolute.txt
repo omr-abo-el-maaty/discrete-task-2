@@ -1,0 +1,8 @@
+D:\projects\check if number is perfect\check if number is perfect\bin\Debug\check if number is perfect.exe.config
+D:\projects\check if number is perfect\check if number is perfect\bin\Debug\check if number is perfect.exe
+D:\projects\check if number is perfect\check if number is perfect\bin\Debug\check if number is perfect.pdb
+D:\projects\check if number is perfect\check if number is perfect\obj\Debug\check if number is perfect.csproj.AssemblyReference.cache
+D:\projects\check if number is perfect\check if number is perfect\obj\Debug\check if number is perfect.csproj.SuggestedBindingRedirects.cache
+D:\projects\check if number is perfect\check if number is perfect\obj\Debug\check if number is perfect.csproj.CoreCompileInputs.cache
+D:\projects\check if number is perfect\check if number is perfect\obj\Debug\check if number is perfect.exe
+D:\projects\check if number is perfect\check if number is perfect\obj\Debug\check if number is perfect.pdb
